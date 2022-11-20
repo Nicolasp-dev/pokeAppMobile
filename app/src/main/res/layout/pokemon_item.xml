@@ -17,10 +17,10 @@
         >
         <ImageView
             android:id="@+id/ivPokemon"
-            android:src="@drawable/Charmander"
+            android:src="@drawable/charmander"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="8dp"
+            android:layout_margin="16dp"
             android:contentDescription="@string/pokemon_image"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
