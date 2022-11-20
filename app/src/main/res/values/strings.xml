@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="n_001">N° 001</string>
+</resources>
